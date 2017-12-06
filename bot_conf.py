@@ -1,0 +1,14 @@
+BOT_NAME = "tsimtakerbot"
+BOT_USER_ID = ""
+BOT_CHANNEL_NAME = ""
+BOT_CHANNEL_ID = ""
+
+BOT_AFK_DELAY = 30 * 60
+BOT_AFK_MESSAGE = "already > 30 min"
+BOT_TAKE_PREFIX = "/take"
+BOT_FREE_PREFIX = "/free"
+BOT_STATUS_PREFIX = "/status"
+BOT_LONG_KEYWORD = "long"
+
+BOT_API_TOKEN = ""
+BOT_READ_WEBSOCKET_DELAY = 1
